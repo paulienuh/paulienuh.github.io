@@ -153,21 +153,21 @@ font-weight:normal;
 
 @font-face {
     font-family: 'montserratregular';
-    src: url("paulienuh.github.io/montserrat/montserrat-regular.otf");
+    src: url("montserrat-regular.otf");
     font-weight: normal;
     font-style: normal
 }
 
 @font-face {
     font-family: 'montserratsemi_bold';
-    src: url("/montserrat/montserrat-semibold.otf");
+    src: url("montserrat-semibold.otf");
     font-weight: normal;
     font-style: normal
 }
 
 @font-face {
     font-family: 'montserratultralight';
-    src: url("/montserrat/montserrat-ultralight.otf");
+    src: url("montserrat-ultralight.otf");
     font-weight: normal;
     font-style: normal
 }
