@@ -145,7 +145,7 @@ font-weight:normal;
 
 @font-face {
     font-family: 'montserratlight';
-    src: url("paulienuh.github.io/montserrat/montserrat-light.otf");
+    src: url("/montserrat/montserrat-light.otf");
     font-weight: normal;
     font-style: normal
     letter-spacing: -5px;
@@ -160,14 +160,14 @@ font-weight:normal;
 
 @font-face {
     font-family: 'montserratsemi_bold';
-    src: url("paulienuh.github.io/montserrat/montserrat-semibold.otf");
+    src: url("/montserrat/montserrat-semibold.otf");
     font-weight: normal;
     font-style: normal
 }
 
 @font-face {
     font-family: 'montserratultralight';
-    src: url("paulienuh.github.io/montserrat/montserrat-ultralight.otf");
+    src: url("/montserrat/montserrat-ultralight.otf");
     font-weight: normal;
     font-style: normal
 }
