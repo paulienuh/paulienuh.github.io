@@ -145,7 +145,7 @@ font-weight:normal;
 
 @font-face {
     font-family: 'montserratlight';
-    src: url("/montserrat/montserrat-light.otf");
+    src: url("montserrat-light.otf");
     font-weight: normal;
     font-style: normal
     letter-spacing: -5px;
