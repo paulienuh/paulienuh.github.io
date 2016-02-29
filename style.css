@@ -147,7 +147,7 @@ font-weight:normal;
 
 @font-face {
     font-family: 'montserratlight';
-    src: url("montserrat/Montserrat-light.otf");
+    src: url("montserrat/Montserrat-Light.otf");
     font-weight: normal;
     font-style: normal
     letter-spacing: -5px;
@@ -155,21 +155,21 @@ font-weight:normal;
 
 @font-face {
     font-family: 'montserratregular';
-    src: url("montserrat/Montserrat-regular.otf");
+    src: url("montserrat/Montserrat-Regular.otf");
     font-weight: normal;
     font-style: normal
 }
 
 @font-face {
     font-family: 'montserratsemi_bold';
-    src: url("montserrat/Montserrat-semibold.otf");
+    src: url("montserrat/Montserrat-SemiBold.otf");
     font-weight: normal;
     font-style: normal
 }
 
 @font-face {
     font-family: 'montserratultralight';
-    src: url("montserrat/Montserrat-ultralight.otf");
+    src: url("montserrat/Montserrat-UltraLight.otf");
     font-weight: normal;
     font-style: normal
 }
