@@ -43,3 +43,7 @@ body {
 .navbar .navbar-nav > li > a, .navbar .navbar-nav > li > a{
     color: #c39ca3;
 }
+
+h2.title {
+	font-size: 20pt;
+}
