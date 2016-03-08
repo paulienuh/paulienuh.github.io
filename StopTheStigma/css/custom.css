@@ -35,3 +35,11 @@ body {
 #icon-bar {
 	color:white;
 }
+
+.navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:focus {
+    background-color: #fff;
+    color: #a84a5c;
+}
+.navbar .navbar-nav > li > a, .navbar .navbar-nav > li > a{
+    color: #c39ca3;
+}
