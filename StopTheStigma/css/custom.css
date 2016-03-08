@@ -1,0 +1,37 @@
+body {
+	background-color: #fff;
+
+}
+
+.jumbotron {
+	background-color: #ba6e7d;
+}
+
+.navbar {
+	background-color: #a84a5c;
+	color: white;
+
+}
+.navbar-nav {
+	float: right;
+	color: white;
+}
+
+.page-header {
+	border: 0px;
+}
+
+.input-group {
+	width: 50%;
+}
+
+.social {
+	float: left;
+	margin-top: 5px;
+}
+.sr-only {
+	color: white;
+}
+#icon-bar {
+	color:white;
+}
