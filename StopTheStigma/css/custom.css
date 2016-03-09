@@ -43,7 +43,9 @@ color: white;}
 #icon-bar {
 	color:white;
 }
-
+.navbar-toggle {
+  background-color: white;
+}
 .navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:focus {
     background-color: #fff;
     color: #a84a5c;
