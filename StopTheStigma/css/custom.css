@@ -1,6 +1,7 @@
+html,
 body {
-	background-color: #fff;
-
+height: 100%;
+font-family: 'PT Sans', sans-serif;
 }
 .fa-twitter-square {
 	color: white;
@@ -9,10 +10,6 @@ body {
 color: white;}
 .fa-linkedin-square {color: white;}
 .fa-instagram {color: white;}
-
-.jumbotron {
-	background-color: #ba6e7d;
-}
 
 .navbar {
 	background-color: #a84a5c;
@@ -24,8 +21,12 @@ color: white;}
 	color: white;
 }
 
+
 .page-header {
 	border: 0px;
+}
+.jumbotron {
+	background-color: #ba6e7d;
 }
 
 .input-group {
@@ -60,40 +61,11 @@ p.content {
 	font-size: 15pt;
 }
 
-
-
-
-
-
-
-
 #heading {
 font-family: 'Cedarville Cursive', cursive;
 font-size: 7em;
 text-align: center;
 }
-
-/* Sticky footer styles
--------------------------------------------------- */
-
-html,
-body {
-  height: 100%;
-font-family: 'PT Sans', sans-serif;
-  /* The html and body elements cannot have any padding or margin. */
-}
-
-/* Wrapper for page content to push down footer */
-#wrap {
-  min-height: 100%;
-  height: auto;
-  /* Negative indent footer by its height */
-  margin: 0 auto -60px;
-  /* Pad bottom by footer height */
-  padding: 0 0 60px;
-}
-
-/* Set the fixed height of the footer here */
 #footer {
  margin-top:50px;
   background-color: #fff;
@@ -145,7 +117,7 @@ animation-direction: alternate;
 
 @media only screen and (max-width: 700px) {
 #heading { 
-font-size: 4em; 
+font-size: 2em; 
 }
 
 }
