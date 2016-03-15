@@ -62,7 +62,9 @@ h2.title {
 p.content {
 	font-size: 15pt;
 }
-
+strong {
+	color: #ffffff;
+}
 #heading {
 font-family: 'Cedarville Cursive', cursive;
 font-size: 7em;
