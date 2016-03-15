@@ -28,7 +28,9 @@ color: white;}
 .jumbotron {
 	background-color: #ba6e7d;
 }
-
+.jumbotron1 {
+	background-color: #ba6e7d;
+}
 .input-group {
 	width: 90%;
 }
@@ -65,7 +67,7 @@ p.content {
 strong {
 	color: #000;
 }
-.key strong{
+.jumbotron1 strong{
 	color: #e9e9e9;
 }
 #heading {
