@@ -63,7 +63,6 @@ p.content {
 	font-size: 15pt;
 }
 
-
 #heading {
 font-family: 'Cedarville Cursive', cursive;
 font-size: 7em;
@@ -121,6 +120,9 @@ animation-direction: alternate;
 @media only screen and (max-width: 700px) {
 #heading { 
 font-size: 3em; 
+}
+.dropdown-menu {
+	color: white;
 }
 
 }
