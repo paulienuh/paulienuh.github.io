@@ -179,7 +179,10 @@ blockquote p {
 
 }
 
+.logo1 {
+display: none;
 
+}
 @media only screen and (max-width: 1024px) {
 .jumbotron {
   width: 90%;
@@ -205,16 +208,30 @@ width: 90%;
 
 }
 @media only screen and (max-width: 480px) {
+.logo {
+display: none;
+
+}
+.logo1 {
+  display: inline;
+  height: 90px;
+   filter: grayscale(100%);
+       -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+
+}
+.logo1:hover {
+      -webkit-filter: grayscale(0%); /* Chrome, Safari, Opera */
+
+}
 
 .navy li {
-float: left;
-    font-size: 10pt;
+    font-size: 13pt;
 }
 .jumbotron {
-  width: 90%;
+  width: 100%;
 }
 .footer {
-width: 90%;
+width: 100%;
 
 }
 
