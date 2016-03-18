@@ -219,7 +219,7 @@ display: none;
 }
 .logo1 {
   display: inline;
-  height: 90px;
+  height: 70px;
    filter: grayscale(100%);
        -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
 
@@ -230,7 +230,7 @@ display: none;
 }
 .navy {
   left: 30px;
-  top: 94px;
+  top: 90px;
   position: absolute;
 }
 .navy li {
