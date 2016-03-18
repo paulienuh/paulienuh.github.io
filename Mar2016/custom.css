@@ -205,6 +205,11 @@ width: 90%;
 width: 90%;
 
 }
+.navy {
+  left: 40px;
+  top: 0px;
+  position: absolute;
+}
 
 }
 @media only screen and (max-width: 480px) {
@@ -223,9 +228,14 @@ display: none;
       -webkit-filter: grayscale(0%); /* Chrome, Safari, Opera */
 
 }
-
+.navy {
+  left: 30px;
+  top: 94px;
+  position: absolute;
+}
 .navy li {
     font-size: 13pt;
+   
 }
 .jumbotron {
   width: 100%;
