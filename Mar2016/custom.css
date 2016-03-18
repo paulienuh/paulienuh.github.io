@@ -232,6 +232,7 @@ display: none;
 .navy {
   left: 30px;
   top: 90px;
+  right: 0px;
   position: absolute;
 }
 .navy li {
