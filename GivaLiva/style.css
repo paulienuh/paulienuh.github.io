@@ -9,8 +9,22 @@ body {
       font-size: 100%;
 font-color: #3A3D3B;
 }
-a {
-      color: white;
+/* links */
+a:link {
+    color: white;
+}
+
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: white;
 }
 .parallax-bg {
 padding: 350px 0;
