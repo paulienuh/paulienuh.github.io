@@ -9,7 +9,9 @@ body {
       font-size: 100%;
 font-color: #3A3D3B;
 }
-      
+a {
+      color: white;
+}
 .parallax-bg {
 padding: 350px 0;
 background-image: url(http://i598.photobucket.com/albums/tt69/PromiseCoNr/Background1_zpsr1l8qeej-0.png);   
