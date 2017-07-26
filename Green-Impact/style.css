@@ -1,0 +1,113 @@
+.navigation {
+	background-color: #3a3a3a;
+	padding: 20px;
+	text-align: center;
+	color: white;
+	margin-top: 50px;
+	    box-shadow: 1px 1px 1px #888888;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.navi {
+display: inline;
+list-style: none;
+padding-right: 30px;
+text-align: center;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.heading {
+}
+
+
+.one {
+
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.one-text {
+	width: 70%;
+	margin: 0 auto;
+}
+.two {
+
+		background-color: #3a3a3a;
+color: white;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.two-text {
+	width: 70%;
+margin: 0 auto;
+}
+
+h1 {
+		font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+h2 {
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+h3 {
+		font-family: 'Roboto Condensed', sans-serif;
+margin-bottom: 10px;
+}
+.styling {
+	border-bottom: 1px solid white;
+width: 30%;
+margin: 0 auto;
+margin-bottom: 30px;
+}
+.styling1 {
+	border-bottom: 1px solid black;
+width: 30%;
+margin-bottom: 30px;
+}
+.styling2 {
+	border-bottom: 1px solid white;
+width: 30%;
+margin-bottom: 30px;
+}
+
+.button1 {
+	background: white;
+	padding: 15px;
+	color: black;
+	text-decoration: none;
+}
+
+a {
+	color:#b1ddab;
+}
+
+a:hover {
+	background: #b1ddab;
+	text-decoration: none;
+	color: white;
+}
+.moving-images {
+	width: 100%;
+}
+.social {
+	padding-left: 10px;
+}
+footer {
+
+background-color: #3a3a3a;
+color: white;
+	padding-top: 70px;
+	padding-bottom: 70px;
+		margin-top: 40px;
+
+	padding: 30px;
+}
+
