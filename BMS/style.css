@@ -1,3 +1,8 @@
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
 .header {
 	background-color: #f0f0f0;
 	padding: 5px;
@@ -11,6 +16,7 @@
 }
 h2 {
 	margin-left: 10px;
+
 }
 
 .collapse1 {
@@ -52,4 +58,13 @@ a:hover {
 
 .arrow:hover {
 	color: black;
+}
+
+.image {
+	width:100%;
+}
+@media only screen and (min-width: 768px) {
+	.image {
+		width:60%;
+	}
 }
